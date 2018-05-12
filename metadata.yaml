@@ -1,0 +1,25 @@
+_repo: The-Jericho-Road_13816
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adkins, W. Bion
+    gutenberg_agent_id: '5233'
+    url: http://www.gutenberg.org/2009/agents/5233
+description: ''
+gutenberg_issued: '2004-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Independent Order of Odd Fellows'
+- !lcsh 'Conduct of life'
+- !lcc 'HS'
+title: The Jericho Road
+url: http://www.gutenberg.org/ebooks/13816
